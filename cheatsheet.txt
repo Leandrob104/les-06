@@ -1,0 +1,7 @@
+git init (maak een repository)
+
+git remote add origin [link naar repository]
+
+git branch -M main
+
+git push -u origin main 
